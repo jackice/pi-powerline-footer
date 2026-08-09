@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.12.3] - 2026-08-09
+
 ### Fixed
 - **Post-compaction context display** — Show a clearly marked estimate from the active compacted context after compaction or `/reload`, instead of stale pre-compaction usage or an unknown placeholder.
 
